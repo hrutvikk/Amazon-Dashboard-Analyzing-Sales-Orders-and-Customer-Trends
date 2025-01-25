@@ -96,7 +96,7 @@ A cleaned version of the dataset is included to allow users to explore the dashb
 ---
 
 ## Preview
-![Dashboard_ss](https://github.com/user-attachments/assets/77cfa0f2-b408-41ef-8a9b-14d078ebe83e)
+![Dashboard_ss]([https://github.com/user-attachments/assets/77cfa0f2-b408-41ef-8a9b-14d078ebe83e](https://github.com/hrutvikk/Amazon-Dashboard-Analyzing-Sales-Orders-and-Customer-Trends/blob/main/Amazon/Releted%20Files/SS%20CustomerBehavior.png))
 
 ---
 
