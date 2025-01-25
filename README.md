@@ -113,4 +113,4 @@ Special thanks to the tools and communities that supported this project, includi
 ---
 
 ### Contact
-For any queries or suggestions, feel free to reach out via the repository’s issue tracker or contact [Your Name/Email].
+For any queries or suggestions, feel free to reach out via the repository’s issue tracker or contact rane.hr@ufl.edu.
