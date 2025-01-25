@@ -97,7 +97,9 @@ A cleaned version of the dataset is included to allow users to explore the dashb
 
 ## Preview
 ![Dashboard_ss](https://github.com/hrutvikk/Amazon-Dashboard-Analyzing-Sales-Orders-and-Customer-Trends/blob/main/Amazon/Releted%20Files/SS%20SalesPerformance.png?raw=true)
-
+![Dashboard_ss]()
+![Dashboard_ss]()
+![Dashboard_ss]()
 ---
 
 ## Future Improvements
